@@ -1,4 +1,4 @@
-import { ModeToggle } from "@/components/mode-toggle"
+ggggggggimport { ModeToggle } from "@/components/mode-toggle"
 import { SummaryCards } from "@/components/SummaryCards"
 import { SpendingTrendsChart } from "@/components/SpendingTrendsChart"
 import { CategoryPieChart } from "@/components/CategoryPieChart"
